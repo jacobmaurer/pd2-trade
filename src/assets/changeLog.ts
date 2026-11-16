@@ -1,4 +1,7 @@
 export const changeLog = {
+  '0.11.8': [
+    '🔧 Windowed D2GL with the cursor locked: panels open over the game and ones left outside it move inside, where the cursor can reach them. The zone timer and net worth ticker sit on the game picture, not in the title bar or black bars',
+  ],
   '0.11.7': [
     '🆕 Horadric Sim is in open beta: no waitlist. Sign in with PD2 and the Sim button in the price check, market and Net Worth (and the try-on hotkey) sends items to the planner',
     '🆕 Settings: a Test button next to the notification and market alert volume sliders plays the sound at that volume, so you can set it without waiting for a real alert',
